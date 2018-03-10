@@ -6,3 +6,4 @@ set(CMAKE_CXX_STANDARD 17)
 
 add_executable (cpp1 cpp1.cpp)
 add_executable (pl plyer.cpp)
+add_executable (addingtwonumbers addingtwonumbers.cpp)
